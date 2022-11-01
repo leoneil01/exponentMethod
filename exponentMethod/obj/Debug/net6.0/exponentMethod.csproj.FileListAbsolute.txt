@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\obj\Debug\net6.0\exponentMethod.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\obj\Debug\net6.0\exponentMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\obj\Debug\net6.0\exponentMethod.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\obj\Debug\net6.0\exponentMethod.AssemblyInfo.cs
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\obj\Debug\net6.0\exponentMethod.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\bin\Debug\net6.0\exponentMethod.exe
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\bin\Debug\net6.0\exponentMethod.deps.json
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\bin\Debug\net6.0\exponentMethod.runtimeconfig.json
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\bin\Debug\net6.0\exponentMethod.dll
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\bin\Debug\net6.0\exponentMethod.pdb
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\obj\Debug\net6.0\exponentMethod.dll
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\obj\Debug\net6.0\refint\exponentMethod.dll
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\obj\Debug\net6.0\exponentMethod.pdb
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\obj\Debug\net6.0\exponentMethod.genruntimeconfig.cache
+C:\Users\admin\Documents\Custom Office Templates\C#\exponentMethod\exponentMethod\obj\Debug\net6.0\ref\exponentMethod.dll

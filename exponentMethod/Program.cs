@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-
+        int num1, num2;
     }
 
     static int GetPower(int baseNumber, int powerNumber)
