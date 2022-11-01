@@ -4,4 +4,9 @@
     {
 
     }
+
+    static int GetPower(int baseNumber, int powerNumber)
+    {
+
+    }
 }
